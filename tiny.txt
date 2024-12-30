@@ -1,0 +1,19 @@
+copy /b D:\steno\bus.jpg+D:\steno\text.txt D:\steno\merged.jpg
+
+copy /b D:\steno\text.rar+D:\steno\bus.jpg D:\steno\merged.rar
+
+smtp filter
+select victims ip
+right click - follow
+
+
+nbns
+NetBIOS
+
+
+Kerberos
+
+
+
+file-export object-imf-save   
+open with browser
